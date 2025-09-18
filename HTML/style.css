@@ -1,3 +1,31 @@
-body{
+/* body{
   background: yellow;
-}
+} */
+
+/* h1,p{
+  background-color: yellow;
+} */
+
+/* #headline{
+  color: bisque;
+} */
+
+/* div p{
+  background-color: red;
+  color: white;
+} */
+
+/* div>p{  
+  background-color: red;
+  color: white;
+}  first p of div only*/ 
+
+/* div+p{
+  background-color: red;
+  color: white;
+} */
+
+/* div~p{
+  background-color: red;
+  color: white;
+} */

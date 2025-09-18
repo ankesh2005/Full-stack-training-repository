@@ -1,0 +1,32 @@
+Rest Api(Repersational state transfer api):- connect or comunicate between two computers.
+
+
+client ----> server , connection through http request 
+
+  client       HTTP request     server
+|-----------|--------------> |--------------------------| 
+| webbrowser|                | web server,port nnumber  |
+|-----------|<-------------- |--------------------------|
+              HTTP response
+
+
+C-create  post
+R-read    get
+U-update  put/patch
+D-delete  delete
+
+
+JSON (JavaScript Object Notation)
+
+JSON Structure
+
+Objects → enclosed in { }, contain key-value pairs.
+Arrays → enclosed in [ ], contain ordered lists of values.
+Values → can be strings, numbers, booleans, null, objects, or arrays.
+
+JSON does not allow comments, unlike JavaScript.
+JSON Cannot Store Directly  Functions / Methods
+
+A trailing comma is an extra comma at the end of the last item in an array or object.
+no trailing comma in Json
+
